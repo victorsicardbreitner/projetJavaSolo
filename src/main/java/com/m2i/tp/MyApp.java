@@ -8,6 +8,7 @@ public class MyApp {
 		System.out.println("devA is the best !!!");
 		System.out.println("devB is the very best !!!");
 		System.out.println("conflit devB");
+		System.out.println("Nouvelle tentative devA");
 	}
 
 }
