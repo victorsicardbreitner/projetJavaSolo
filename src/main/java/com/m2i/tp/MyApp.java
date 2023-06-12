@@ -5,7 +5,7 @@ public class MyApp {
 	public static void main(String[] args) {
 		System.out.println("lundi 12 juin 2023 12h14");
 		System.out.println("bientôt déjeuner");
-		System.out.println("devA is the best !!!");
+		System.out.println("devB is the best !!!");
 	}
 
 }
